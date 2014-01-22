@@ -542,5 +542,5 @@ loop:
 		bb_error_msg("sync failed, continuing anyway");
 #endif
 
-	return 0;
+	return ret;
 }
